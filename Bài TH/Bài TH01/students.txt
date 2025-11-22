@@ -1,0 +1,5 @@
+20220001,Nguyen Van Toan,7.8
+20220002,Tran Thi Binh,8.5
+20220003,Le Van Tin,6.9
+20220004,Pham Minh Dat,9.2
+20220005,Hoang Anh Em,7.0

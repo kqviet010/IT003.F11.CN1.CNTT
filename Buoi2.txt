@@ -1,0 +1,21 @@
+I. Thuật toán tìm kiếm
+- Tìm kiếm tuyến tính:
+	+ Độ phức tạp:
+		. Tốt nhất: Phần tử tìm thấy là phần tử đầu tiên O(1)
+		. Xấu nhất: Ko tìm thấy phần tử nào O(n)
+		
+		Đưa vào 1 phần tử cầm cân khi while
+		
+- Tìm kiếm nhị phân:
+	- Ý tưởng: chia đôi mảng
+	+ Code: While or For. Đổi dấu ở if thứ 2
+	
+	+ Độ phức tạp: log2(x)
+
+	
+II. Thuật toán sắp xếp
+- Interchange sort:
+	+ Độ phức tạp tính theo n 
+		. BT tính độ phức tạp (từ If(), ...)
+	
+	

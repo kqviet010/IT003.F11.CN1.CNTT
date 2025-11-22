@@ -1,0 +1,36 @@
+- Con trỏ
+	int x = 5
+	int *p, **q;
+	p = &x
+	q = &p
+	cout << x << *p << **q   // 5 5 5
+
+		q = 11f
+		*q = 1f
+		**q = 5
+		
+int: 2 bytes
+float: 4 bytes
+double: 8 bytes
+
+- Hệ thập lục phân: 0 1 2 3 4 5 6 7 8 9 A B C D E F -> 11 22 ...
+
+- DS liên kết (Linked List)
+	+ Các ptu ko cần nằm xát nhau
+	// 1f[ 9 | 2f ]    2f[ 7 | 3f ]    3f[ -3 | NULL ]
+	// Node *p
+	// p = 1f
+	   p->Info 			(lấy phần tử đầu tiên: 9)
+	   p->Next->Info	(lấy phần tử thứ 2: 7)
+	   
+	+ struct List {*Head, *Tail}
+	+ List l;
+	// 1f[ 9 | 2f ]    2f[ 7 | 3f ]    3f[ -3 | 4f ]    4f[ -3 | NULL ]
+	// l.head->Info 	 		(số 9)
+	// l.head->next->Info		(số 7)
+	
+	+ void CreateList(List &l){
+		l.Head = NULL;
+		l.Tail = NULL;
+	}
+	

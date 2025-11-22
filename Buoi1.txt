@@ -1,0 +1,15 @@
+- Nội dung học - Buổi 1,2,5,6,8
+
+- Thuật toán Sort (ra thi 1 trong 4)
+	+ Interchange Sort 
+	+ Selection Sort 
+	+ Bubble Sort
+	+ Insertion Sort
+	
+- Buổi 1: 
+- Khái niệm về CTDL & GT:
+	+ CTDL + Thuật toán = Chương trình
+	+ Tiêu chuẩn: Xác định, Hữu hạn, Đúng, Tính hiệu quả, Tính tổng quát
+- Độ phức tạp (số phép ss + gán): n!
+- Tiêu chí của CTDL
+	
