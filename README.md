@@ -32,8 +32,8 @@ Dưới đây là các chủ đề chính sẽ được đề cập trong khóa 
 
 1.  **Phân Tích Giải Thuật (Algorithm Analysis):** Độ phức tạp thời gian $O(n)$ và độ phức tạp không gian $O(1)$.
 2.  **Sắp Xếp & Tìm Kiếm (Sorting & Searching):**
-    * Các giải thuật sắp xếp cơ bản: Selection, Insertion, Interchange, Bubble Sort.
-    * Các giải thuật tìm kiếm: Linear, Binary Search.
+    * Các giải thuật tìm kiếm: Linear Search, Binary Search.
+    * Các giải thuật sắp xếp cơ bản: Interchange Sort, Selection Sort, Bubble Sort, Insertion Sort.
 3.  **Cấu Trúc Dữ Liệu Tuyến Tính (Linear Data Structures):**
     * Mảng, Danh sách liên kết (Linked Lists): Đơn, đôi, vòng.
     * Stack & Queue.
